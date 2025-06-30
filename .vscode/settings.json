@@ -5,6 +5,10 @@
     "*.vue": "vue",
     "*.html": "html",
     "iostream": "cpp"
+<<<<<<< HEAD
   },
   "C_Cpp.errorSquiggles": "disabled"
+=======
+  }
+>>>>>>> e7c4140fd4d080261883044573c0f0b231bf415d
 }
